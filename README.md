@@ -22,6 +22,6 @@ Este proyecto esta enfocado en la funcionalidad de una palicación simulando est
 
 1.- Clonar repositorio
 2.- Reconstruir módulos de node npm i
-3.- Run devServer "nmp run dev"
-4.- Ejecutar proyecto: "https//localhost:5173"
+3.- Run devServer "npm run dev"
+4.- Ejecutar proyecto en: "https//localhost:5173"
 
