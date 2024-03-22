@@ -17,3 +17,11 @@ Este proyecto esta enfocado en la funcionalidad de una palicación simulando est
 - QueryParams
 
 - Aplicar filtros utilizando QueryStrings
+
+# Ejecución del proyecto:
+
+1.- Clonar repositorio
+2.- Reconstruir módulos de node npm i
+3.- Run devServer "nmp run dev"
+4.- Ejecutar proyecto: "https//localhost:5173"
+
